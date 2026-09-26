@@ -40,5 +40,6 @@ Where:
 ## OUTPUT
 <img width="1600" height="925" alt="WhatsApp Image 2026-09-08 at 1 38 30 PM" src="https://github.com/user-attachments/assets/cd7068e1-83ea-4946-b208-cd8d39f98252" />
  CALCULATION
-<img width="1600" height="1047" alt="WhatsApp Image 2026-09-09 at 6 48 46 PM" src="https://github.com/user-attachments/assets/ee3c8c2c-4340-4949-aea2-e3bc8ceb50f1" />
+<img width="1280" height="960" alt="WhatsApp Image 2026-09-26 at 10 10 47 AM" src="https://github.com/user-attachments/assets/3b2f702c-93e9-47c3-bc41-7744285728b0" />
+
 RESULT: Thus the Autocorrelation and PSD are executed in Scilab and output is verified.
